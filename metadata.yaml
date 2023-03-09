@@ -1,0 +1,39 @@
+_repo: Hidden-blood_70059
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2023-02-18'
+identifiers:
+  gutenberg: '70059'
+language: en
+pgterms:marc905: 20230128193347tuttle
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York, NY :$bGrosset & Dunlap, Publishers, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Robbery -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Vendetta -- Fiction'
+- !lcsh 'Pulp literature'
+- !lcsh 'Ranch life -- West (U.S.) -- Fiction'
+- !lcsh 'Hartley, Hashknife (Fictitious character) -- Fiction'
+- !lcsh 'Stevens, Sleepy (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Hidden blood
+url: http://www.gutenberg.org/ebooks/70059
